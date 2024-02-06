@@ -7,8 +7,8 @@
 - It will run in the Web App.
 - It will navigate to the main.dart file. Need to remove the commented code.
 - It will navigate to the sign up screen.
-- It will ask for email-id and password --> After clicking it will navigate ti the Otp Vrification Page.
-- You need to write otp as '123'.
+- It will ask for email-id and password --> After clicking it will navigate ti the Otp Verification Page.
+- You need to write otp as ''.
 - After giving OTP dialog box will open. With an message.
 - After creating account, You need to login screen.
 - Putting ID and Password.
@@ -16,4 +16,6 @@
 - You can Log out of th screen.
 - We can use Forgot Password.
 - If not having an account then we can Sign Up.
+- Added new features in DashboardScreen implemented transaction history page.
 - This was all about the CaseStudy.
+  
